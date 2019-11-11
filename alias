@@ -1,0 +1,8 @@
+alias pack=~/Scripts/MY/check_package.sh
+alias ctd=~/Scripts/MY/countdown.sh
+alias sc=~/Scripts/MY/fuzzy_search.sh
+alias vol=~/Scripts/MY/get_volume.sh
+alias manp=~/Scripts/MY/man_page_pdf.sh
+alias serv=~/Scripts/MY/mount_server.sh
+alias spot=~/Scripts/MY/spotify_status.sh
+alias com=~/Scripts/MY/system_info.sh
